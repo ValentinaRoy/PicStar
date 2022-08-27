@@ -20,11 +20,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ValentinaRoy/socialmedia.git"
+    "url": "git+https://github.com/ValentinaRoy/PicStar.git"
   },
   "bugs": {
-    "url": "https://github.com/ValentinaRoy/socialmedia/issues"
+    "url": "https://github.com/ValentinaRoy/PicStar/issues"
   },
-  "homepage": "https://github.com/ValentinaRoy/socialmedia#readme",
+  "homepage": "https://github.com/ValentinaRoy/PicStar#readme",
   "description": ""
 }
